@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Miotto 👋
 
-- 🌱 Estudando front-end
+- 🌱 Estudando front-end & back-end
 - 📫 Contate-me no email: lucas.b.miotto@hotmail.com
 
 <div>
