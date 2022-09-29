@@ -2,7 +2,9 @@
 
 - 📫 Contate-me no email: lucas.b.miotto@hotmail.com
 - 🏛️ Ciências da Computação - IMT
-- 🌐 Estudando back-end && cibersegurança
+- 🌐 Estudando Redes e Cibersegurança
+- 💻 Estudando Back-End && Front-End
+- 💡 Todos os dias inovando e aprendendo uma nova tecnologia
 
 <div>
   <a href="https://github.com/lucasbmiotto">
